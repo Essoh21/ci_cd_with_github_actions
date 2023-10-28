@@ -46,6 +46,6 @@ jobs:
           # Directory where built files are stored
           build_directory: "./dist"
           # Command to install dependencies
-          install_command: yarn install
+          install_command: npm install
           # Command to build static website
           build_command: npm build
