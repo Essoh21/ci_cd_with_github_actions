@@ -1,1 +1,1 @@
-# ci_cd_with_github_actions
+# CI/CD with github actions
